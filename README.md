@@ -1,4 +1,4 @@
-# HANMAN-PYTHON-GAME
+# HANGMAN-PYTHON-GAME
 While practicing coding in python, i made a word letter guessing game.
 This game choses a word from a list of words, converts the words into a set of letters. Takes User input guessed letter, then stores it a variable.
 If the user guessed the correct letter present in the word, the user is prompted to input another letter, 
